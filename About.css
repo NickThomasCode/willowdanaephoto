@@ -1,0 +1,62 @@
+nav ul {
+    list-style-type: none;
+    font-size: 350%;
+    position: absolute;
+    top: 5%;
+    left: 0%;
+}
+
+
+nav ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: none;
+    color: rgb(255, 200, 255);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black
+}
+
+.bio{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+
+.bio p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: black;
+    font-size: 200%;
+}
+
+.bioText p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 34%;
+    
+}
+
+.interest {
+    position: absolute;
+    top: 55%;
+    left: 35%;
+}
+
+.interest p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 200%;
+}
+
+.intText p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    top: 64%;
+}
